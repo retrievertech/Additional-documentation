@@ -18,7 +18,7 @@ We have investigated other segment connection and assignment methods that were n
 Between Data Points), Bayesian Methods for segment connection, and Multiple Traveling Salesman.  The first two were run using real data, and the MTSP method uses simulated seismogram data.  The final portion of the doc called multi criteria decision making has not been tested. It represents the beginning of an idea about how to use a variety of inputs to assign the most likely segments to their proper place in the time series. 
 
 
-Linagraph 480 paper spec sheet
+LINAGRAPH 480 PAPER SPEC SHEET
 This is a copy of the spec sheet of the photosensitive paper that was originally used when recording WWSSN seismograms on a rotating drum. It might become useful when trying to model the response of the paper vs. the residence time of the incident light beam on the paper. For example, line width and line intensity are a function of residence time; hence, the relative slope of a trace can be calculated by its width and intensity.
 
 
